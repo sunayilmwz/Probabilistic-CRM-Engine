@@ -2,6 +2,8 @@
 
 Welcome! If you've ever worked with retail or e-commerce data, you know the classic CRM struggle: **Customers don't tell you when they leave.** They just silently stop buying. 
 
+**[Try the Live Web App](https://probabilistic-crm-engine.streamlit.app/)**
+
 Standard RFM (Recency, Frequency, Monetary) models only take a snapshot of the *past*. In this project, I built a statistical decision engine to predict the *future*. Instead of just asking "What did the customer do?", this engine answers three critical business questions:
 1. **Are they still alive?** (Stochastic CLV)
 2. **When will they churn, and why?** (Survival Analysis)
