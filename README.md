@@ -41,3 +41,12 @@ Using a **T-Learner (Two-Model Approach with Random Forests)**, I calculated the
 
 ---
 *Feel free to explore the code to see how mathematical theory meets retail strategy!*
+
+
+## Screenshots
+
+![Project Screenshot 1](images/Screenshot%202026-10-27%20at%2018.57.59.png)
+
+![Project Screenshot 2](images/Screenshot%202026-10-27%20at%2018.58.07.png)
+
+![Project Screenshot 3](images/Screenshot%202026-10-27%20at%2018.58.24.png)
