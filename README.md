@@ -34,7 +34,7 @@ Using a **T-Learner (Two-Model Approach with Random Forests)**, I calculated the
 * **Sure Things:** Will buy anyway (Don't waste budget).
 * **Lost Causes:** Won't buy regardless (Don't waste budget).
 * **Sleeping Dogs:** Will churn *because* you bothered them.
-* **Persuadables:** Will only buy IF you send the discount. 👉 **(Our Target!)**
+* **Persuadables:** Will only buy IF you send the discount. **(Our Target!)**
 
 ## Tech Stack
 `Python` | `Lifetimes` | `Lifelines` | `Scikit-Learn` | `SciPy` | `Pandas` 
